@@ -1,0 +1,37 @@
+{
+  "name": "lumdb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "elementz": "^2.0.4",
+    "jest-fetch-mock": "^3.0.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.8",
+    "react-dom": "^16.8",
+    "react-overdrive": "0.0.10",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^2.4.0",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-localstorage-simple": "^2.4.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
+    "react-testing-library": "^4.1.7"
+  }
+}
